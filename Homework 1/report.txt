@@ -1,4 +1,17 @@
 Bracketing Method: Bisection Method  
+Iteration : 1 		 Estimated root : 1.0000 		 Approximate Relative Error : 100.0000 
+Iteration : 2 		 Estimated root : 0.5000 		 Approximate Relative Error : 100.0000 
+Iteration : 3 		 Estimated root : 0.7500 		 Approximate Relative Error : 33.3333 
+Iteration : 4 		 Estimated root : 0.6250 		 Approximate Relative Error : 20.0000 
+Iteration : 5 		 Estimated root : 0.6875 		 Approximate Relative Error : 9.0909 
+Iteration : 6 		 Estimated root : 0.6563 		 Approximate Relative Error : 4.7619 
+Iteration : 7 		 Estimated root : 0.6406 		 Approximate Relative Error : 2.4390 
+Iteration : 8 		 Estimated root : 0.6484 		 Approximate Relative Error : 1.2048 
+Iteration : 9 		 Estimated root : 0.6523 		 Approximate Relative Error : 0.5988 
 
 
 Bracketing Method: False-Position Method  
+Iteration : 1 		 Estimated root : 0.5000 		 Approximate Relative Error : 100.0000 
+Iteration : 2 		 Estimated root : 0.6667 		 Approximate Relative Error : 25.0000 
+Iteration : 3 		 Estimated root : 0.6517 		 Approximate Relative Error : 2.2989 
+Iteration : 4 		 Estimated root : 0.6527 		 Approximate Relative Error : 0.1552 
